@@ -1,2 +1,4 @@
-# temp_test_repo
-Temporary testing repo
+# testing
+Temporary testing respository
+
+https://test.pypi.org/project/testertron/
