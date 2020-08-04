@@ -22,5 +22,6 @@ jobs:
             uses: actions/checkout@v2
          
           - name: custom action
-            uses: spacetelescope/action-publish_to_pypi@specify_pip
+            #uses: spacetelescope/action-publish_to_pypi@specify_pip
+            uses: rendinam/action-publish_to_pypi@pepstuff
             id: custom_action_0
